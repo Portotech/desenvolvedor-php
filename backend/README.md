@@ -8,4 +8,7 @@ Será avaliado a lógica utilizada, simplicidade do código, documentação do c
 
 Como responsável por uma empresa de gerenciamento de projetos eu gostaria de controlar de forma simples todos os projetos da companhia. Os projetos terão um número ilimitado de empregados associados a eles, sendo que um empregado pode ser Gerente ou Funcionário. Cada gerente tem alguns funcionários. Os dados básicos dos projetos são descrição e deadline (Data Inicio e Fim). 
 
+**Desejável**
+Log de modificação dos projetos em banco não relacional
+
 Crie as classes e métodos necessários e no index.php utilize-os para criar empregados e projetos e listar os projetos existentes.
