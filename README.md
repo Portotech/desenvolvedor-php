@@ -12,14 +12,15 @@ Faça fork do repositório. Cada diretório (backend,frontend) contem um README 
 - Conhecimento de design patterns básicos;
 - Criação de testes de unidade;
 - Conhecimento sobre Cloud Computing (IaaS, PaaS e SaaS);
+- Documentação de código.
 
 -
 - (frontend) Estrutura semântica dos componentes usando o HTML;
 - (frontend) Estilização dos componentes usando CSS3;
 - (frontend) Bootstrap Twitter 3;
-- (frontend) Ser um Javascript Ninja. JavaScript puro, jQuery e Backbone utilizando JS não obstrusivo;
-- (frontend) Escrever testes em JavaScript e desenvolver códigos sustentáveis;
-- (frontend) Preocupar-se com desenvolvimento cross browser;
+- (frontend) Ser um Javascript Ninja. JavaScript puro, AngularJS e jQuery;
+- (frontend) Noção de testes em JavaScript e desenvolver códigos sustentáveis;
+- (frontend) Preocupar-se com desenvolvimento cross browser.
 
 -
 - (backend) Programação em PHP5 
@@ -28,6 +29,7 @@ Faça fork do repositório. Cada diretório (backend,frontend) contem um README 
 - (backend) Conhece sobre o grupo de interoperabilidade entre frameworks (PHP-FIG) e suas recomendações (PSRs);
 - (backend) Conhece e utiliza ao menos a PSR­0
 - (backend) Utilização avançada de bancos de dados relacionais (MySQL);
+- (backend) Conhecimento de webservices (SOAP e REST).
 
 
 ###Desejável
