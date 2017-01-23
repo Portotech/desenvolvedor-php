@@ -41,3 +41,5 @@ Cada diretório (backend, frontend) contem um README com a descrição da tarefa
 - Conhecimentos avançados de algum framework MVC;
 - Conhecimentos em bancos de dados NoSQL;
 - Conhecimento do manifesto ágil e seus princípios, e entende os papéis definidos pelo SCRUM;
+
+Portotech Test2
